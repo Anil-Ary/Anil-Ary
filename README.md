@@ -16,12 +16,13 @@ Tools: SQL (SQL Server, PostgreSQL), Python (Pandas, Numpy, Matplotlib), Tableau
 
 Skills: Data Cleaning, Exploratory Data Analysis, Data Visualization.
 
-👩🏻‍💻 Currently Working On
+👩🏻‍💻 CURRENTLY WORKING ON
 
 A 5-part program on statistics, data analysis, data wrangling and data visualization.
+
 8 Week SQL Challenge [SQL]
 
-📚 Notable Projects
+📚 NOTABLE PROJECTS
 
 Covid-19 and Impact on Malaysia stock market [SQL, Tableau]
 A project close to home. Analysed worldwide C-19 cases & how it has impacted KLCI index prices over the past 1.5 year.
@@ -31,12 +32,13 @@ Project as a Data Analytics intern. Developed key business metrics and created v
 Fitness Tracking App Analysis [Python]
 This is a special one, it's my 1st foray into EDA and Python programming. Analysed fitness tracking data, discovered trends and provided business recommendations.
 
-📝 Currently Learning
+📝 CURRENTLY LEARNING
 
 DataCamp's Data Analyst with SQL Server (est. completion Sep 2021)
 Serious SQL Apprenticeship (est. completion Sep 2021)
 Udacity Data Analyst Nanodegree Program (est. completion Nov 2021)
 DataCamp's Data Analyst with Python (est. completion Oct 2021)
+
 🙋🏻‍♀️ Reach out and connect with me on LinkedIn!
 
 Psst, I'm more inclined to accept your request if you drop me a message and say hi! 😉
